@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-#Seyma Tufekci - @seymaatufekci
+#Seyma Tufekci - seymaatufekci@gmail.com
 #Homework-Day3
 
 #Question-1:
