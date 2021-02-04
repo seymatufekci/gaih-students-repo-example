@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-#Seyma Tufekci - @seymaatufekci
+#Seyma Tufekci - seymaatufekci@gmail.com
 #Homework-Day4
 
 print("Found prime numbers between 0 and 100:")
